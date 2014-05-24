@@ -1,3 +1,8 @@
+== Ruby on Rails Tutorial - Sample App
+
+Created by Simon Sundboell, following Michael Hartl's tutorial book.
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
